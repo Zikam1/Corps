@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-blue-600 shadow-md">
+  <header class="bg-white shadow-md">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-16">
         <!-- Logo Section -->
@@ -10,21 +10,21 @@
         <!-- Navigation Links -->
         <div class="hidden md:flex space-x-4">
           
-          <a href="#" class="text-white hover:text-gray-200 px-3 py-2 rounded-md text-sm font-medium">Resume</a>
-          <a href="#" class="text-white hover:text-gray-200 px-3 py-2 rounded-md text-sm font-medium">CV</a>
-          <a href="#" class="text-white hover:text-gray-200 px-3 py-2 rounded-md text-sm font-medium">Cover letter</a>
-          <a href="#" class="text-white hover:text-gray-200 px-3 py-2 rounded-md text-sm font-medium">Blog Post</a>
-          <a href="#" class="text-white hover:text-gray-200 px-3 py-2 rounded-md text-sm font-medium">About</a>
+          <a href="#" class="text-black hover:text-red-500 px-3 py-2 rounded-md text-lg font-medium">Resume</a>
+          <a href="#" class="text-black hover:text-red-500 px-3 py-2 rounded-md text-lg font-medium">CV</a>
+          <a href="#" class="text-black hover:text-red-500 px-3 py-2 rounded-md text-lg font-medium">Cover letter</a>
+          <a href="#" class="text-black hover:text-red-500 px-3 py-2 rounded-md text-lg font-medium">Blog Post</a>
+          <a href="#" class="text-black hover:text-red-500 px-3 py-2 rounded-md text-lg font-medium">About</a>
         </div>
 
         <!-- Search Bar (Optional) -->
-        <div class="relative hidden md:block">
+        <!-- <div class="relative hidden md:block">
           <input
             type="text"
             class="w-full sm:w-64 px-4 py-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
             placeholder="Search..."
           />
-        </div>
+        </div> -->
 
         <!-- Mobile Menu Icon -->
         <div class="md:hidden">
