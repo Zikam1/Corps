@@ -3,15 +3,13 @@
   <!-- Wrapper to control max width -->
   <div class="container max-w-screen-lg mx-auto flex flex-col md:flex-row items-stretch h-full">
     <!-- Left Text Section -->
-    <div class="md:w-1/2 space-y-4 px-4 md:px-16 text-center md:text-left flex flex-col justify-center">
-      <h1 class="text-3xl md:text-4xl text-gray-900 font-bold mb-4 lg:mb-8">LiveCareer
-        CV & Cover LetteR
-        Tools For Jobseekers in the UK</h1>
-      <p class="text-gray-800 max-w-md mx-auto md:mx-0">
+    <div class="md:w-3/4 space-y-4 px-4 md:px-16 text-center md:text-left flex flex-col justify-center">
+      <h1 class="text-3xl md:text-4xl text-white font-bold mb-4 lg:mb-8">NYSC CORPER'S AND GRADUATES CRAFT PROFESSIONAL APPLICATION.</h1>
+      <p class="text-white max-w-md mx-auto md:mx-0">
         Everything you need to get the job. Professional CV and cover letter writing help.
       </p>
       <div class="flex justify-center md:justify-start space-x-4 mt-6">
-        <button class="bg-blue-500 text-white px-6 py-3 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-4 focus:ring-blue-400">
+        <button class="bg-[#B74249] text-white px-6 py-3 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-4 focus:ring-blue-400">
           CREATE CV
         </button>
       </div>
@@ -19,7 +17,7 @@
 
     <!-- Right Image Section -->
     <div class="md:w-1/2 flex justify-center items-center mt-8  md:mt-0">
-      <img src="../assets/ive.png" alt="Tech Illustration" class="w-full max-w-xs md:max-w-sm object-cover rounded-md">
+      <img src="../assets/ive-.png" alt="Tech Illustration" class="w-full max-w-xs md:max-w-sm object-cover rounded-md">
     </div>
   </div>
 </section>
@@ -102,7 +100,7 @@
   <h4 class="text-2xl font-semibold text-gray-800">30+ expert-designed CV templates to choose from. Optimised to impress recruiters and pass ATS.
     One-click layouts - no formatting necessary. </h4>
 <div class="flex justify-center items-center ">
-    <img src="assets/vb.png" alt="Centered Image" class="max-w-full max-h-full object-contain">
+    <img src="assets/vb-.png" alt="Centered Image" class="max-w-full max-h-full object-contain">
   </div>
 </div>
 
@@ -141,13 +139,35 @@
         <div class="mt-4 text-blue-600">
           <i class="fas fa-user-circle text-4xl"></i>
         </div>
-        
-      
       </div>
     </div>
   </div>
 </section>
 
+<section class="py-24 bg-gray-50">
+  <div class="container mx-auto flex flex-col md:flex-row items-center max-w-5xl px-4 md:px-8">
+    <div class="md:w-1/2">
+      <img src="../assests/PIB.jpg" alt="About Us" class="rounded-lg shadow-lg">
+    </div>
+    <div class="md:w-1/2 mt-8 md:mt-0 md:ml-10">
+      <h2 class="text-3xl font-bold text-gray-800 mb-4">Cover letter builder</h2>
+      <p class="text-lg text-gray-600 mb-4">
+        Thanks to LiveCareer, you’ll have a professional cover letter ready in
+         just a few clicks. Cover letters aren’t a thing of the past—over 80%
+          of recruiters consider them important for their hiring decisions
+      </p>
+      <p class="text-lg text-gray-600 mb-6">
+        This lecture marks a pivotal moment in my career, where I will discuss the vital role of scientific innovation in advancing sustainability.
+      </p>
+      <div class="flex justify-center md:justify-start space-x-4 mt-6">
+        <button class="bg-[#B74249] text-white px-6 py-3 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-4 focus:ring-blue-400 ">
+          CREATE MY COVER LETTER
+        </button>
+      </div>
+   
+    </div>
+  </div>
+</section>
 
 
 </template>

@@ -5,7 +5,7 @@
       <div class="text-2xl font-bold text-gray-900 dark:text-white">
         <NuxtLink to="/" class="flex items-center space-x-2">
           <!-- Image Link -->
-          <img src="../assets/coper-logo.png" alt="Clarionconcept Logo" class="w-72 h-24" />
+          <!-- <img src="../assets/coper-logo.png" alt="Clarionconcept Logo" class="w-72 h-24" /> -->Zikario Hub
         </NuxtLink>
       </div>
 

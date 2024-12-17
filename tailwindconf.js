@@ -9,7 +9,10 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                'co': '#b2ce55', // Add the custom green color
+                'co': '#b2ce55',
+                // Add the custom green color
+                'pu': '#B74249',
+
             },
         },
     },
